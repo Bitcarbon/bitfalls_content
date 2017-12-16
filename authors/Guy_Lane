@@ -1,0 +1,64 @@
+Bitcoin has an energy problem that solar power can’t fix. 
+ 
+Bitcoin mining – the mechanism of creating Bitcoins and approving transactions on the blockchain – consumes prodigious amounts of electricity due to the use of a ‘Proof of Work’ cryptographic algorithm. While some Bitcoin is mined using clean energy (hydropower and geothermal energy, mainly) most Bitcoin is mined using coal, because coal power is both ubiquitous and cheap. 
+ 
+Unfortunately, burning coal produces CO2, a gas that is important for both feeding plants and regulating our home planet’s climate. Given that the energy consumption of the Bitcoin mining network increases in lockstep with dollar value of the coin, and that the coin is rapidly increasing in value, Bitcoin’s energy and carbon problem is becoming something of a global concern.  
+ 
+In 2015, the world’s political leaders signed the UN Paris Agreement to limit global warming to no more than 2o Celsius above the pre-industrial baseline. This agreement implies a global carbon budget of 565 billion tons of CO2 by 2050. The world is already more than 1o Celsius hotter than it ought to be, and fast approaching the ‘dangerous to humanity’ threshold. Bitcoin mining is making the problem measurably worse. 
+ 
+Some pundits suggest a simple solution to this crypto-carbon problem: power the Bitcoin mining network with solar energy. After-all, solar energy is today producing some of the cheapest electricity in the world, sunshine is much more abundant than coal, and has no carbon footprint. So the question rises, can solar power make Bitcoin sustainable? The answer is no, and see why, it is necessary to understand the Bitcoin mining process in the context of a capitalist marketplace on a planet with finite resources. 
+ 
+Once upon a time, Bitcoin mining was the thing of libertarian crypto-nerds, and math wizzes who were smart enough to figure out how the confusing cryptocurrency actually worked. When Bitcoin was worth US$0.01, it was easy to mine Bitcoin on a regular PC computer, but not many people did so. As the benefits and ‘coolness’ of Bitcoin rose, more people got into mining it. As that happened, the ‘Proof of Work Difficulty’ mechanism made it increasingly more computationally and energy intensive to mine Bitcoin. The Difficulty mechanism is simple technique to regulate the creation of new Bitcoins to a fixed amount – presently around 3,600 per day. As Difficulty rose, desktop PC computers were no long up to the task, so miners resorted to more powerful graphics cards. 
+ 
+The value of Bitcoin has exploded over recent years, mining effort has substantially increased, and the Difficulty setting has risen accordingly. Consequently, mining Bitcoins now requires a specialist device called an Application Specific Integrated Circuit, or ASIC for short. The best ASIC Bitcoin mining rig on the market, the Bitmain Antminer S9, retails for about US$7,000. 
+ 
+Today, with a single Bitcoin worth more than US$14,000, Bitcoin has gone fullcapitalism. Billions of dollars of venture capital have been invested into fintech companies that interconnect with the Bitcoin blockchain; millions of Yuan have been spent setting up Bitcoin mining farms where the power is cheapest in rural China; and untold amounts of Krona have been dished out on pristine mining facilities in Iceland, taking advantage of inexpensive hydrothermal power and icy, Arctic air to reduce cooling costs. 
+ 
+One aspect of this ‘capitalismisation’ of Bitcoin, is that it is now protected by wealthy and powerful interests (think the Wolf of Wall Street), and so it won’t be possible to just turn Bitcoin off. Furthermore, those powerful interests want the price to keep going up. Bitcoin’s energy problem is going to endure, and get worse. 
+ 
+With this prognosis, it would seem to make sense to build a huge solar farm in a desert, and a monstrous shed the size of Elon Musk’s Gigafactory, pack it with Antminer S9s, and then connect the solar power to the mining farm. Is this not a way to solve the energy/carbon problem of Bitcoin? It just seems to make sense. With all that venture capital money floating around, there should be no impediment to financing a huge solar powered Bitcoin mining farm in the desert.  
+ 
+An Antminer S9 consumes 1.3kW of electricity. If it were connected to 1.3kW of solar panels in a sunny region of the world, it would run for about five hours at full pace. However, in the morning, evening and night, there would be no mining taking place. To keep the Antminer running 24 hours a day would require about 8.6kW of PV modules, and batteries enough to store about 24.7kWh. If you could do it for one Antminer, you could do it for a thousand and call it a solar powered bitcoin mining farm. So, technically, this is not problematical.   
+ 
+The problem is, however, that Bitcoins Proof of Work/Difficulty mechanism, coupled with capitalism’s incessant quest for profit, means that the price of the Bitcoin, and the difficulty in acquiring it, is going up and up, in an exponential surge. Which means that to keep the Bitcoin mining network supplied with clean solar energy would require an exponential surge of solar panels that keeps going up and up. 
+ 
+According to Power Compare, if Bitcoin’s growth rate were to continue at its current pace, and no new power generating capacity were added to the global network, then Bitcoin mining would consume all the world’s electricity by February 2020 – and that’s just 26 months away. An alarming statistic, but how does it match the real world? 
+ 
+Given that the price of Bitcoin isn’t anchored to anything, there is no real theoretical maximum to how much Bitcoin could be worth. Hypothetically, if each of the Bitcoin’s hundred million subunits – called Satoshis – were worth US$0.01 each, then a single Bitcoin would be worth US$1,000,000. There is no shortage of analysts projecting Bitcoin at US$1,000,000. Some project a much higher price. 
+ 
+At time of writing, Bitcoin was trading at US$15,000, and according to Digiconomist, the Bitcoin mining network is consuming about 0.14% of the world’s electricity, an amount equivalent to the nation of Serbia.  
+ 
+Another calculation by the Long Future Foundation’s Cryptoplanet Analysis suggests that the Bitcoin mining network is currently producing about 14 million tonnes CO2 per annum.  
+ 
+At US$1,000,000, according to the Cryptoplanet Analysis, the energy consumed by the Bitcoin mining network will be around 15% of global electricity, and over 1.5 billion tonnes (Gigatonnes) of CO2 will be produced per annum. At US$5 million (as per the prediction of Rick Falkvinge, Swedish information technology entrepreneur) 78% of global electricity supply will be consumed, and the Bitcoin mining network will be producing 7.8 Gigatonnes CO2, or about a quarter of the global total emissions.  
+ 
+These figures are based on a model which is considerably less complicated than the real world. So, will Bitcoin ever gobble up 78% of the planet’s electricity? Yes? No? Maybe? Probably not? The point of the model is not the literal interpretation of the outputs, but the essence of the argument. Bitcoin’s energy demand is spiralling out of control in lock-step with the dollar value of the coin. And all that energy has to come from somewhere. 
+ 
+Despite what Bitcoin’s legendary founder Satoshi Nakamoto might have thought, we humans do not live on an orbiting space station powered by fusion reactors. Instead we live inside the biosphere of a living planet, and the biosphere’s temperature is regulated by CO2 gas. Obviously we can’t keep powering Bitcoin with coal (the carbon budget requires that the global fossil fuel industry is wound up by 2080), but it is completely preposterous to think that we can endlessly manufacture solar power to keep up with Bitcoin’s limitless demand for energy.  
+ 
+In 2016, solar power produced 375 billion kilowatt-hours or 1.8% of the world’s electricity supply. Just imagine how hard it will be to keep the 1.8% figure – let alone dramatically rise it, to meet the carbon budget – if Bitcoin swallows 15% of the world’s electricity at US$1,000,000. What’s more, producing solar panels has an energy and environmental cost – there is a lot of glass, aluminium, poly-silicone, copper and energy involved. It takes about 36 months for a solar panel to repay the energy that was used in its construction. If Power Compare’s projection that Bitcoin consumes all the world’s electricity in 26 months is right, this will have happened BEFORE the Bitcoin solar panels have even repaid the energy debt of their production! 
+ 
+There simply isn’t enough capacity to create all the solar panels needed to power society AND provide Bitcoin’s stellar thirst for electrons. In fact, Bitcoin’s power drain could tip us all over the climate cliff, because global emissions must peak by  
+ 
+ 
+2020 if we are to have any chance of meeting the Paris 2o Celsius target and the carbon budget. That’s simply not going to happen if the value of Bitcoin continues its path at anything like the rate at which it is going now, and the power demand follows. 
+ 
+Another point to make about Bitcoins burgeoning thirst for electrons is that it is wholly unnecessary. There is absolutely nothing that Bitcoin does that dozens of other cryptocurrencies that use energy-sipping cryptographic proofs can’t do. Absolutely nothing. Blockchain technology NXT, for example, has a negligible energy footprint due to its use of Proof of Stake. Certainly, there is energy required to run computers and servers in the system, but the power bills aren’t going to shoot through the roof if the value of the coin increases. 
+ 
+Finally, it should be realised that there is not just one Bitcoin with an energy problem, there are three: Bitcoin Classic, Bitcoin Gold and Bitcoin Cash. Actually, there are hundreds of them, because Bitcoin has spawned dozens of clones called Alt Coins. For each of the Alt Coins, there is a community of aficionados all doing what they can to get the price (and therefore the electricity demand) to soar. While the energy demand of Bitcoin has been assessed, there has yet to be an appraisal of the total energy burden on Planet Earth of all the other cryptocurrencies.  
+ 
+A very reasonable fear for rational people who are ‘climate woke’ is that Bitcoin (and all the cryptocurrencies based on Proof of Work/ Difficulty) have become a Frankenstein technology that will wreak havoc on the planet’s climate. As if it wasn’t hard enough to navigate a transition to zero carbon, now there is Bitcoin and its kind plugging into electricity networks from the Arctic to the tropics and everywhere in between.  
+ 
+The Bitcoin community, who by and large see themselves as innovators and early adopters of new technology, libertarians and anti-authority warriors for the little guy, and not as heartless planet-killers, are seemingly deaf to these warnings. On their blogs, they routinely refer to climate concerns as FUD, a term that describes inducing fear, uncertainty and doubt in order to dissuade someone from adopting a particular technology.  
+ 
+Thus, with Wolf of Wall Street bankers protectively circling the Bitcoin, and the community similarly howling for its price to rise, it looks like we are stuck in this cryptocurrency climate catastrophe with no apparent exit. Sadly, it may be the case that Satoshi Nakamoto’s ground breaking blockchain technology has unwittingly killed off what little chance we humans had to transition to an ecologically sustainable clean energy future. 
+ 
+It may be that there is a technical solution to this. Potentially, Bitcoin’s algorithm could be tweaked to make it run on Proof of Stake, like the NXT system. There is a precedent for this, as the Ethereum blockchain technology is doing just his. If that won’t work, maybe it’s possible to create a financial mechanism that makes people rich from shorting Bitcoin until it’s price crashes to near zero and its energy demand 
+Bitcoin has an energy problem that solar power can’t fix. 
+ 
+ 
+falls. Failing that, it is unclear what can be done to fix Bitcoin’s exponential energy problem. Simple as it might seem, solar power is not the answer. 
+ 
+Guy Lane Executive Director The Long Future Foundation guylane@longfuture.org www.longfuture.org 13/12/2017 
+ 
+ 
