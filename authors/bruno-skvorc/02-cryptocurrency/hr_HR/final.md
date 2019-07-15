@@ -18,7 +18,7 @@ S vremenom je došlo do situacije u kojoj je jedna strana transakcije jako htjel
 
 S vremenom su se pojavile banke koje su za ljude čuvale to zlato u sefovima. Umjesto da netko sa sobom nosi teške metale, nosio je papir na kojem mu je banka koja njegovo zlato čuva napisala "Da, ova osoba stvarno ima 15g zlata kod nas". Taj papir se tada davao drugima u svrhu plaćanja, koji su pak u toj istoj banci taj isti papir mogli zamijeniti za to čuvano zlato u bilo kojem momentu.
 
-To je s vremenom rezultiralo uvođenjem "[zlatnog standarda](https://en.wikipedia.org/wiki/Gold_standard)" u kojem se valuta neke nacije povezala s protuvrijednosti u rijetkim metalima. Država je preuzela svo zlato pod prijetnjom zakonskih progona, i svima koji su svoje zlato predali dala takve papirnate zadužnice. Drugim riječima, papirnati novac. No u to vrijeme, papirnati novac bio je direktno vezan za zalihe zlata neke države, te se tako inflacija držala pod kontrolom - zalihe zlata rasle su veoma polako i sve sporije, te se time ekonomska vrijednost društva jednostavno nije mogla prenapuhati. Ljudi su živjeli unutar svojih mogućnosti, i društvo nije trošilo više nego je imalo jer to jednostavno nije bilo moguće.
+To je s vremenom rezultiralo uvođenjem "[zlatnog standarda](https://hr.wikipedia.org/wiki/Zlatni_standard)" u kojem se valuta neke nacije povezala s protuvrijednosti u rijetkim metalima. Država je preuzela svo zlato pod prijetnjom zakonskih progona, i svima koji su svoje zlato predali dala takve papirnate zadužnice. Drugim riječima, papirnati novac. No u to vrijeme, papirnati novac bio je direktno vezan za zalihe zlata neke države, te se tako inflacija držala pod kontrolom - zalihe zlata rasle su veoma polako i sve sporije, te se time ekonomska vrijednost društva jednostavno nije mogla prenapuhati. Ljudi su živjeli unutar svojih mogućnosti, i društvo nije trošilo više nego je imalo jer to jednostavno nije bilo moguće.
 
 No, kako je napućenost rasla i ekonomija u SAD tokom 1930-ih stagnirala za vrijeme Velike Depresije, tadašnji predsjednik Franklin Roosevelt odlučio je prekinuti dolar-zlato vezu i naštampati velike količine novog novca (efektivno papirnatih zadužnica) kako bi stimulirao ekonomiju. Mnogi ekonomisti slažu se da je to izbavilo SAD iz depresije, ali je ujedno uzrokovalo nove probleme. Prvo, štampanje novog novca uzrokovalo je ubrzanu inflaciju, jer je u cirkulaciji bilo mnogo više novca nego prije - novca koji nije bio garantiran nikakvom konkretnom vrijednošću već samo dobrom voljom i vjerom građana u svoju državu. Drugo, budući da je do 1971 bilo dopušteno mijenjati dolare za državno zlato a dolari su se tada već na veliko štampali bez pokrića, kešom-bogati građani i stranci počeli su dramatično prazniti državne rezerve zlata.
 
@@ -94,9 +94,10 @@ Sada kada imate generalnu ideju o tome što su kriptovalute, naučite kako funkc
 - [Što je blockchain][blockchain] - da biste saznali *kako* kriptovalute funkcioniraju
 - [Što su i kako funkcioniraju novčanici za kriptovalute][wallet] - saznajte kako do svog prvog novčanika, te kako ih osigurati
 - [Koliko su kriptovalute anonimne?][anon] - saznajte sve o transakcijama i njihovoj anonimnosti
-- Što je Ethereum? - saznajte osnove o najmoćnijoj kriptovaluti i po čemu se razlikuje od Bitcoina (članak uskoro)
+- [Što je Ethereum?][eth] - saznajte osnove o najmoćnijoj kriptovaluti i po čemu se razlikuje od Bitcoina
 
 [blockchain]: https://bitfalls.com/hr/2017/08/20/blockchain-explained-blockchain-works/
 [wallet]: https://bitfalls.com/hr/2017/08/31/what-cryptocurrency-wallet/
 [finite]: https://bitfalls.com/hr/2017/09/17/bitcoin-finite-just-myth/
 [anon]: https://bitfalls.com/hr/2017/09/18/anonymous-cryptocurrencies-like-bitcoin/
+[eth]: https://bitfalls.com/hr/2017/09/19/what-ethereum-compare-to-bitcoin/
